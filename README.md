@@ -1,6 +1,6 @@
-# Hi there, I'm Amir Malik 👋
+# Hi there, I'm Waqas Muukhtar 👋
 
-### Full-Stack Developer | .NET Core | React.js | Cloud Architecture | Next.js, MongoDB, Ethereum & Crypto Payments
+### Full-Stack Developer | .NET Core | React.js | Cloud Architecture
 
 I'm a passionate full-stack developer with 3+ years of experience building enterprise-grade applications using modern technologies. I specialize in creating scalable, performant solutions that solve real business problems.
 
